@@ -1,4 +1,4 @@
-# 345365-TrySwift
+# TrySwift
 
 ## trySwift
 <img src="https://cloud.githubusercontent.com/assets/4190298/23140345/534ae20c-f7b1-11e6-8584-b65aded1f59e.png" width=250>
